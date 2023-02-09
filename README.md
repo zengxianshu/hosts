@@ -16,6 +16,7 @@
 ### Public
 
 - GitHubHosts [home](https://github.com/ineo6/hosts) [next hosts](https://gitlab.com/ineo6/hosts/-/raw/master/next-hosts)
+- GitHub520(推荐) [home](https://github.com/521xueweihan/GitHub520) [next hosts](https://raw.hellogithub.com/hosts)
 - googlehosts [home](https://github.com/googlehosts/hosts)
 
 ### 本地 hosts 服务
@@ -141,10 +142,28 @@ sudo killall -HUP mDNSResponder
 ipconfig /flushdns
 ```
 
-## 我的作品
+####  修改 hosts 文件
 
-- [GitMaster](https://github.com/ineo6/git-master)：开发者助手，代码仓库结构浏览器扩展
-- [homebrew-install](https://github.com/ineo6/homebrew-install)：Homebrew快速安装教程和脚本
-- [GitHub Hosts](https://github.com/ineo6/hosts)：GitHub最新hosts，定时更新
-- [Awesome Mirror](https://github.com/ineo6/awesome-mirror)：镜像收集，旨在帮助你快速安装开发工具
-- [mp-ci](https://github.com/ineo6/mp-ci)：微信小程序、小游戏发布助手（CI）
+hosts 文件在每个系统的位置不一，详情如下：
+
+- Windows 系统：`C:\Windows\System32\drivers\etc\hosts`
+- Linux 系统：`/etc/hosts`
+- Mac（苹果电脑）系统：`/etc/hosts`
+- Android（安卓）系统：`/system/etc/hosts`
+- iPhone（iOS）系统：`/etc/hosts`
+
+修改方法，把第一步的内容复制到文本末尾：
+
+1. Windows 使用记事本。
+2. Linux、Mac 使用 Root 权限：`sudo vi /etc/hosts`。
+3. iPhone、iPad 须越狱、Android 必须要 root。
+
+#### 2.1.3 激活生效
+
+大部分情况下是直接生效，如未生效可尝试下面的办法，刷新 DNS：
+
+1. Windows：在 CMD 窗口输入：`ipconfig /flushdns`
+2. Linux 命令：`sudo nscd restart`，如报错则须安装：`sudo apt install nscd` 或 `sudo /etc/init.d/nscd restart`
+3. Mac 命令：`sudo killall -HUP mDNSResponder`
+
+**Tips：** 上述方法无效可以尝试重启机器。
