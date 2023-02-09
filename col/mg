@@ -1,0 +1,91 @@
+# mg
+125.39.195.110 phpmyadmin.tj.wenxue.mgtv.com
+39.96.45.197 api.wenxue.mgtv.com
+#192.168.31.131 api.wenxue.mgtv.com
+39.96.45.197 apiv3.wenxue.mgtv.com 
+39.96.45.197 cdnstatic.wenxue.mgtv.com
+39.96.45.197 api.ali.wenxue.mgtv.com
+39.96.45.197 adminapi.wenxue.mgtv.com
+39.96.45.197 app.wenxue.mgtv.com
+39.96.45.197 author.wenxue.mgtv.com
+39.96.45.197 author.ali.wenxue.mgtv.com
+39.96.45.197 author.newali.wenxue.mgtv.com
+39.96.45.197 admin.corp.wenxue.mgtv.com
+39.96.45.197 bbs.wenxue.mgtv.com
+39.96.45.197 cps.admin.wenxue.mgtv.com
+39.96.45.197 cup.wenxue.mgtv.com
+39.96.45.197 client.wenxue.mgtv.com
+39.96.45.197 cms.wenxue.mgtv.com
+39.96.45.197 comment.wenxue.mgtv.com
+39.96.45.197 databox.ali.wenxue.mgtv.com
+39.96.45.197 databox.wenxue.mgtv.com
+39.96.45.197 editor.wenxue.mgtv.com
+39.96.45.197 error.api.wenxue.mgtv.com
+39.96.45.197 fragment.wenxue.mgtv.com
+39.96.45.197 h5.wenxue.mgtv.com
+39.96.45.197 h5.4yt.net
+39.96.45.197 img.wenxue.mgtv.com
+39.96.45.197 log.wenxue.mgtv.com
+39.96.45.197 manager_test.wenxue.mgtv.com
+39.96.45.197 manager.wenxue.mgtv.com
+39.96.45.197 mm.wenxue.mgtv.com
+39.96.45.197 mp.mcw.wenxue.mgtv.com
+39.96.45.197 newcms.wenxue.mgtv.com
+39.96.45.197 open.wechat_test.wenxue.mgtv.com
+39.96.45.197 open.wechat.wenxue.mgtv.com
+39.96.45.197 passport.17k.4
+39.96.45.197 pay.wenxue.mgtv.com
+39.96.45.197 phpmyadmin.tj.wenxue.mgtv.com
+39.96.45.197 payment.wenxue.mgtv.com
+47.94.128.36 phpadmin.wenxue.mgtv.com
+39.96.45.197 solr.ali.wenxue.mgtv.com
+39.96.45.197 static.wenxue.mgtv.com
+39.96.45.197 spring.wenxue.mgtv.com
+39.96.45.197 spring.api.wenxue.mgtv.com
+39.96.45.197 search.wenxue.mgtv.com
+39.96.45.197 service.wenxue.mgtv.com
+39.96.45.197 service.ali.wenxue.mgtv.com
+39.96.45.197 topic.wenxue.mgtv.com
+39.96.45.197 top.wenxue.mgtv.com
+39.96.45.197 user.wenxue.mgtv.com
+39.96.45.197 userapi.wenxue.mgtv.com
+#120.0.0.1  www.wenxue.mgtv.com h5.wenxue.mgtv.com
+39.96.45.197 xiaoshuo.wenxue.mgtv.com
+39.96.45.197 zhuanti.wenxue.mgtv.com
+39.96.45.197 www.4yt.net
+39.96.45.197 open.wechat.wenxue.mgtv.com
+39.96.45.197 payment.wenxue.mgtv.com
+39.96.45.197 wap.passport.wenxue.mgtv.com
+39.96.45.197 phpmyadmin.wenxue.mgtv.com
+39.96.45.197 www.wenxue.mgtv.com
+39.96.45.197 walle_publish.17k.com app.wenxue.mgtv.com 
+125.39.195.110 spring.manage.wenxue.mgtv.com user.wenxue.mgtv.com
+192.168.2.100 zuul.wenxue.mgtv.com
+39.96.45.197 api.avg.wenxue.mgtv.com
+39.96.45.197 passport.wenxue.mgtv.com
+39.96.45.197 h5.wan.wenxue.mgtv.com
+39.96.45.197 wan.wenxue.mgtv.com
+39.96.45.197 newcms.wenxue.mgtv.com
+
+
+39.96.45.197 eureka.wenxue.mgtv.com
+39.96.45.197 eureka01.wenxue.mgtv.com
+39.96.45.197 eureka02.wenxue.mgtv.com
+39.96.45.197 eureka03.wenxue.mgtv.com
+39.96.45.197 gateway.wenxue.mgtv.com
+
+39.96.45.197 nacos.wenxue.mgtv.com
+39.96.45.197 zuul.wenxue.mgtv.com
+39.96.45.197 eureka.wenxue.mgtv.com
+39.96.45.197 job.wenxue.mgtv.com
+39.96.45.197 gateway.wenxue.mgtv.com
+39.96.45.197 sentinel.wenxue.mgtv.com
+39.96.45.197 apollo.wenxue.mgtv.com
+39.96.45.197 config.wenxue.mgtv.com
+
+39.96.45.197 springadmin.wenxue.mgtv.com
+39.96.45.197 adminapi.wenxue.mgtv.com
+
+175.6.15.195 nuc.api.mgtv.com
+175.6.15.195 ivp.api.mgtv.com
+175.6.15.195 mpns.api.mgtv.com

@@ -1,0 +1,124 @@
+# 天津
+125.39.195.110 zuul.17k.com
+
+192.168.8.160 eureka01.17k.com
+192.168.8.160 eureka02.17k.com
+192.168.8.161 eureka03.17k.com
+
+# 160
+124.250.47.160 spring.manage.17k.com springadmin.17k.com
+124.250.47.160 adminapi.17k.com
+124.250.47.160 admin.corp.17k.com
+124.250.47.160 all.17k.com
+124.250.47.160 api.17k.com
+124.250.47.160 api.ali.17k.com
+124.250.47.160 app.17k.com
+124.250.47.160 author.17k.com
+124.250.47.160 author.ali.17k.com
+124.250.47.160 client.17k.com
+124.250.47.160 cms.17k.com
+124.250.47.160 comment.17k.com
+124.250.47.160 cps.admin.17k.com
+124.250.47.160 cup.17k.com
+124.250.47.160 databox.17k.com
+124.250.47.160 databox.ali.17k.com
+124.250.47.160 editor.17k.com
+124.250.47.160 error.api.17k.com
+124.250.47.160 eureka.17k.com
+124.250.47.160 h5.17k.com
+124.250.47.160 im.17k.com
+124.250.47.160 img.17k.com
+124.250.47.160 manager.17k.com
+124.250.47.160 mp.mcw.17k.com
+124.250.47.160 newcms.17k.com
+124.250.47.160 open.yiqbook.com
+124.250.47.160 openapi.yiqbook.com
+124.250.47.160 passport.17k.com
+124.250.47.160 pay.17k.com
+124.250.47.160 payment.17k.com
+124.250.47.160 phpadmin.17k.com
+124.250.47.160 phpmyadmin.tj.17k.com
+124.250.47.160 search.17k.com
+124.250.47.160 service.17k.com
+124.250.47.160 service.ali.17k.com
+124.250.47.160 static.17k.com
+124.250.47.160 top.17k.com
+124.250.47.160 user.17k.com
+124.250.47.160 userapi.17k.com
+124.250.47.160 www.17k.com
+124.250.47.160 xiaoshuo.17k.com
+124.250.47.160 zhuanti.17k.com
+124.250.47.160 admin.corp.17k.com
+124.250.47.160 cp.17k.com
+124.250.47.160 apiv3.17k.com
+124.250.47.160 admin.corp.4yt.net
+124.250.47.160 all.4yt.net
+124.250.47.160 api.4yt.net
+124.250.47.160 api.ali.4yt.net
+124.250.47.160 app.4yt.net
+124.250.47.160 author.4yt.net
+124.250.47.160 author.ali.4yt.net
+124.250.47.160 client.4yt.net
+124.250.47.160 cms.4yt.net
+124.250.47.160 comment.4yt.net
+124.250.47.160 cps.admin.4yt.net
+124.250.47.160 cup.4yt.net
+124.250.47.160 databox.4yt.net
+124.250.47.160 databox.ali.4yt.net
+124.250.47.160 editor.4yt.net
+124.250.47.160 error.api.4yt.net
+124.250.47.160 eureka.4yt.net
+124.250.47.160 h5.4yt.net
+124.250.47.160 im.4yt.net
+124.250.47.160 img.4yt.net
+124.250.47.160 manager.4yt.net
+124.250.47.160 mp.mcw.4yt.net
+124.250.47.160 newcms.4yt.net
+124.250.47.160 passport.4yt.net
+124.250.47.160 pay.4yt.net
+124.250.47.160 payment.4yt.net
+124.250.47.160 phpadmin.4yt.net
+124.250.47.160 phpmyadmin.tj.4yt.net
+124.250.47.160 search.4yt.net
+124.250.47.160 service.4yt.net
+124.250.47.160 service.ali.4yt.net
+124.250.47.160 static.4yt.net
+124.250.47.160 top.4yt.net
+124.250.47.160 user.4yt.net
+124.250.47.160 userapi.4yt.net
+124.250.47.160 www.4yt.net
+124.250.47.160 xiaoshuo.4yt.net
+124.250.47.160 zhuanti.4yt.net
+124.250.47.160 zwsafe.col.com
+124.250.47.160 zwsafeapi.col.com
+124.250.47.160 admin.corp.4yt.net
+124.250.47.160 cp.4yt.net
+124.250.47.160 zuul.17k.com
+124.250.47.160 wenxue.mgtv.com
+124.250.47.160 matrix-test.17k.com
+124.250.47.160 huanti.17k.com
+124.250.47.160 admin.corp.17k.com
+
+124.250.47.160 test.mochiwang.com
+124.250.47.160 lonelywriter.mochiwang.com
+
+
+124.250.47.160  spring.api.17k.com api.17k.com h5.17k.com img.17k.com www.17k.com zhuanti.17k.com apiv3.17k.com 
+124.250.47.160newcms.17k.com
+
+124.250.47.160 league.17k.com
+124.250.47.160 league.4yt.net
+
+
+124.250.47.160  fx.corp.17k.com
+124.250.47.160 open.yiqbook.com
+124.250.47.160 openapi.yiqbook.com
+
+
+124.250.47.160 eureka.17k.com
+192.168.8.160 eureka01.17k.com
+192.168.8.160 eureka02.17k.com
+192.168.8.161 eureka03.17k.com
+
+
+192.168.8.160 hdytsite-test.17k.com
