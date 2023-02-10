@@ -8,6 +8,7 @@
 - [175](https://https://github.com/zengxianshu/hosts/blob/master/col/175)
 - [mini](https://https://github.com/zengxianshu/hosts/blob/master/col/mini)
 - [mg](https://https://github.com/zengxianshu/hosts/blob/master/col/mg)
+- [tianjing110](https://https://github.com/zengxianshu/hosts/blob/master/col/tianjing110)
 
 #### dev
 
