@@ -1,14 +1,36 @@
+[toc]
+
 # Hosts
 
 ### Private
+### col
 
-#### col
 
-- [160](https://https://github.com/zengxianshu/hosts/blob/master/col/160)
-- [175](https://https://github.com/zengxianshu/hosts/blob/master/col/175)
-- [mini](https://https://github.com/zengxianshu/hosts/blob/master/col/mini)
-- [mg](https://https://github.com/zengxianshu/hosts/blob/master/col/mg)
-- [tianjing110](https://https://github.com/zengxianshu/hosts/blob/master/col/tianjing110)
+|host|link|link|
+|--|--|--|
+|160|[gitlib][gitlab-160]|[github][github-160]|
+|175|[gitlib][gitlab-175]|[github][github-175]|
+|mini|[gitlib][gitlab-mini]|[github][github-mini]|
+|mg|[gitlib][gitlab-mg]|[github][github-mg]|
+|110|[gitlib][gitlab-110]|[github][github-110]|
+
+
+[gitlab-160]: https://gitlab.com/zengxianshu/hosts/-/raw/master/col/160
+[github-160]: https://github.com/zengxianshu/hosts/raw/master/col/160
+
+[gitlab-175]: https://gitlab.com/zengxianshu/hosts/-/raw/master/col/175
+[github-175]: https://github.com/zengxianshu/hosts/raw/master/col/175
+
+[gitlab-mini]: https://gitlab.com/zengxianshu/hosts/-/raw/master/col/mini
+[github-mini]: https://github.com/zengxianshu/hosts/raw/master/col/mini
+
+[gitlab-mg]: https://gitlab.com/zengxianshu/hosts/-/raw/master/col/mg
+[github-mg]: https://github.com/zengxianshu/hosts/raw/master/col/mg
+
+[gitlab-110]: https://gitlab.com/zengxianshu/hosts/-/raw/master/col/tianjing110
+[github-110]: https://github.com/zengxianshu/hosts/raw/master/col/tianjing110
+
+
 
 #### dev
 
